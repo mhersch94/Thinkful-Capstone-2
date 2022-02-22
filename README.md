@@ -1,6 +1,6 @@
 # Thinkful-Capstone-2
 
-<h2>Impact Assessment: Quality & Condition Ratings on Housing Prices in Ames, IA</h2>
+<h3>Impact Assessment: Quality & Condition Ratings on Housing Prices in Ames, IA</h3>
 
 <body text="black">
 
